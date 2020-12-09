@@ -45,7 +45,7 @@ namespace MatchGame_test
             if (matches == 8)
             {
                 timer.Stop();
-                timeTextBlock.Text = timeTextBlock.Text + " - Play again?";
+                timeTextBlock.Text = timeTextBlock.Text + " Press to Restart";
             }
         }
 
